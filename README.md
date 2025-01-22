@@ -18,3 +18,11 @@ This repository contains an implementation of Multi-Level Page Table Management 
    ```bash
    git clone https://github.com/<your-username>/multi-level-page-table.git
    cd multi-level-page-table
+
+2. Compile the code:
+  ```bash
+  gcc -o page_table os.c pt.c
+
+3. Run the program:
+  ```bash
+  ./page_table
