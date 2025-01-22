@@ -20,9 +20,9 @@ This repository contains an implementation of Multi-Level Page Table Management 
    cd multi-level-page-table
 
 2. Compile the code:
-  ```bash
-  gcc -o page_table os.c pt.c
+   ```bash
+   gcc -o page_table os.c pt.c
 
 3. Run the program:
-  ```bash
-  ./page_table
+   ```bash
+   ./page_table
